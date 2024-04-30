@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Llama-2-13B-GGML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/llama-2-13b-langchain-chat-gguf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/llama.cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/llama.cpp/kompute" vcs="Git" />
+  </component>
+</project>
