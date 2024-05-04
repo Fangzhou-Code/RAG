@@ -13,10 +13,6 @@ from langchain_core.runnables import RunnablePassthrough
 import torch
 
 
-# 检查是否有可用的 GPU
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-print(device)
-
 # Load data.
 loader = WebBaseLoader("https://lilianweng.github.io/posts/2023-06-23-agent/")
 data = loader.load()
