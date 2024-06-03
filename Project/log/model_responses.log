@@ -1,0 +1,41 @@
+2024-06-01 17:22:42,332 - INFO - Sending request to model: gemma:2b with prompt: Why is the sky blue?
+2024-06-01 17:22:42,333 - INFO - Sending request to model: qwen with prompt: Why is the sky blue?
+2024-06-01 17:22:45,061 - INFO - Received response from model: gemma:2b
+2024-06-01 17:22:45,062 - INFO - 
+========================================
+Model: gemma:2b
+Response:
+The sky appears blue due to Rayleigh scattering. Rayleigh scattering is a process where light interacts with molecules in the atmosphere. Blue light has a shorter wavelength than other colors of light, so it is scattered more strongly. This is why the sky appears blue.
+========================================
+
+2024-06-01 17:22:45,945 - INFO - Received response from model: qwen
+2024-06-01 17:22:45,947 - INFO - 
+========================================
+Model: qwen
+Response:
+The sky appears blue to us because of a phenomenon known as Rayleigh scattering.
+Rayleigh scattering occurs when light interacts with particles that are much smaller than the wavelength of the light. In the case of the sky, the small particles that cause Rayleigh scattering are the molecules and atoms in the atmosphere.
+When sunlight passes through the Earth's atmosphere, the shorter, blue wavelengths of light are scattered more easily by the atmospheric molecules and atoms than by the longer, red wavelengths of light.
+As a result of this Rayleigh scattering, sunlight appears to be spread out over a much larger area of sky than would actually be the case if only the longest, red wavelengths of light were being scattered.
+========================================
+
+2024-06-01 17:23:34,187 - INFO - Sending request to model: gemma:2b with prompt: Why is the sky blue?
+2024-06-01 17:23:34,187 - INFO - Sending request to model: qwen with prompt: Why is the sky blue?
+2024-06-01 17:23:36,802 - INFO - Received response from model: gemma:2b
+2024-06-01 17:23:36,804 - INFO - 
+========================================
+Model: gemma:2b
+Response:
+The sky is blue due to Rayleigh scattering. Rayleigh scattering is the scattering of light by particles of a shorter wavelength, such as blue light. This means that blue light has more difficulty penetrating the atmosphere than other colors, which is why the sky appears blue.
+========================================
+
+2024-06-01 17:23:37,066 - INFO - Received response from model: qwen
+2024-06-01 17:23:37,067 - INFO - 
+========================================
+Model: qwen
+Response:
+The sky appears blue to us because of a phenomenon called Rayleigh Scattering.
+When sunlight hits Earth's atmosphere, some of the light gets scattered in all directions. However, since blue light has shorter wavelengths than red light, it scatters more easily and in all directions.
+As a result, we perceive the sky as blue, even though much of the light is actually scattered away from us.
+========================================
+
