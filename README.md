@@ -61,6 +61,12 @@ RAG流程图：
 * 后续操作参考: [dify+ollama构建本地大模型平台](https://zhuanlan.zhihu.com/p/697386670)
 
 
+### ollama调用多模型
+
+* 首先本地启动`ollama serve`
+* 运行 `Project/chat_ollama_multimodel.py`
+
+
 
 ## 多模型平台
 
@@ -70,3 +76,39 @@ RAG流程图：
   * [FastChat 框架中的服务解析](http://felixzhao.cn/Articles/article/71)
 * chatall：[齐叨](https://github.com/sunner/ChatALL)
 * ChatHub: [ChatHub](https://chathub.gg/)
+
+
+### FastChat 部署多模型流程
+
+* 下载FastChat: </br>
+`git clone https://github.com/lm-sys/FastChat.git`</br>
+`cd FastChat`</br>
+if you runnning on MAC:`brew install rust cmake`
+* 安装包：</br>
+`pip3 install --upgrade pip  # enable PEP 660 support`</br>
+`pip3 install -e ".[model_worker,webui]"`
+* 下载两个模型：</br>
+  `git lfs install`</br>
+  `git clone https://huggingface.co/lmsys/vicuna-7b-v1.5`</br>
+  `git clone https://huggingface.co/lmsys/longchat-7b-v1.5-32k`
+* （可选）终端交互试下能否运行：`python3 -m fastchat.serve.cli --model-path lmsys/vicuna-7b-v1.5`
+* 启动控制器服务：`python -m fastchat.serve.controller --host 0.0.0.0`
+* 启动Worker服务：</br>
+第一个模型：CUDA_VISIBLE_DEVICES=0</br>
+`
+ python -m fastchat.serve.model_worker --model-path ../vicuna-7b-v1.5 --controller http://localhost:21001 --port 31000 --worker http://localhost:31000
+`</br>
+第二个模型：CUDA_VISIBLE_DEVICES=1</br>
+`
+ python -m fastchat.serve.model_worker --model-path ../longchat-7b-v1.5-32k  --controller http://localhost:21001 --port 31001 --worker http://localhost:31001
+`
+* 启动 RESTFul API 服务：`
+python -m fastchat.serve.openai_api_server --host 0.0.0.0
+`</br>
+可以通过访问`http://127.0.0.1:8000/docs`可以查看接口信息
+![FastAPI](/image/FastAPI.png)
+* WebUI部署：`
+python -m fastchat.serve.gradio_web_server_multi
+`</br>
+访问`127.0.0.1:7860`访问UI界面，选择`side-by-side`下图红色方框
+![FastChat-UI](/image/FastChat-UI.png)
