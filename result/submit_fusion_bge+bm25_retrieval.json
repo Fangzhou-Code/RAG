@@ -2,7 +2,7 @@
     {
         "question": "“前排座椅通风”的相关内容在第几页？",
         "answer": "",
-        "reference": "page_115"
+        "reference": "page_116"
     },
     {
         "question": "\"关于车辆的儿童安全座椅固定装置，在哪一页可以找到相关内容？\"",
@@ -12,17 +12,17 @@
     {
         "question": "“打开前机舱盖”的相关信息在第几页？",
         "answer": "",
-        "reference": "page_308"
+        "reference": "page_307"
     },
     {
         "question": "“打开前机舱盖”这个操作在哪一页？",
         "answer": "",
-        "reference": "page_329"
+        "reference": "page_307"
     },
     {
         "question": "“查看行车记录仪视频”这一项内容在第几页？",
         "answer": "",
-        "reference": "page_276"
+        "reference": "page_275"
     },
     {
         "question": "请问Lynk&Co领克汽车的事件数据记录系统（EDR）主要记录哪些信息？",
@@ -47,7 +47,7 @@
     {
         "question": "如何确保用车前的准备工作万无一失？",
         "answer": "",
-        "reference": "page_18"
+        "reference": "page_15"
     },
     {
         "question": "装载货物时，车内有哪些储物空间可以利用？",
@@ -57,22 +57,22 @@
     {
         "question": "请问车辆手套箱的容量大小是多少？",
         "answer": "",
-        "reference": "page_28"
+        "reference": "page_24"
     },
     {
         "question": "如何合理安排前排的储物空间以提高实用性？",
         "answer": "",
-        "reference": "page_24"
+        "reference": "page_26"
     },
     {
         "question": "请问车辆手套箱的容量大小是多少？",
         "answer": "",
-        "reference": "page_28"
+        "reference": "page_24"
     },
     {
         "question": "如何正确使用前排座椅靠背储物袋？",
         "answer": "",
-        "reference": "page_26"
+        "reference": "page_27"
     },
     {
         "question": "请问，如果后排中央扶手和杯托被占用，驾驶员应该如何放置饮料？",
@@ -97,12 +97,12 @@
     {
         "question": "尾门自动打开/关闭的机制是如何感应障碍物的？",
         "answer": "",
-        "reference": "page_34"
+        "reference": "page_30"
     },
     {
         "question": "如何确保尾门在关闭时安全可靠？",
         "answer": "",
-        "reference": "page_34"
+        "reference": "page_31"
     },
     {
         "question": "尾门在关闭过程中如果遇到障碍物会怎样反应？",
@@ -122,12 +122,12 @@
     {
         "question": "如何确保在装载货物时汽车的安全性？",
         "answer": "",
-        "reference": "page_21"
+        "reference": "page_29"
     },
     {
         "question": "请问这辆正在装载货物的汽车最多可以装载多少立方米的货物？",
         "answer": "",
-        "reference": "page_36"
+        "reference": "page_21"
     },
     {
         "question": "如何设置遥控钥匙的靠近解锁远离上锁功能？",
@@ -137,17 +137,17 @@
     {
         "question": "如何确保遥控钥匙的操作不受干扰？",
         "answer": "",
-        "reference": "page_42"
+        "reference": "page_303"
     },
     {
         "question": "如何通过触摸车门外把手上车内解锁和闭锁的外部感应区域来操作车辆的闭锁？",
         "answer": "",
-        "reference": "page_44"
+        "reference": "page_43"
     },
     {
         "question": "问题：如果遥控钥匙/蓝牙钥匙丢失或损坏，车辆如何进行闭锁和解锁操作？",
         "answer": "",
-        "reference": "page_42"
+        "reference": "page_44"
     },
     {
         "question": "如何确保车辆在低速行驶或静止时，乘客安全地使用开门预警系统？",
@@ -177,7 +177,7 @@
     {
         "question": "如何正确使用座椅位置记忆功能？",
         "answer": "",
-        "reference": "page_54"
+        "reference": "page_53"
     },
     {
         "question": "问题：如果座椅在自动移动过程中被手动调节，那么座椅会怎样移动？",
@@ -187,27 +187,27 @@
     {
         "question": "请问在中央显示屏中如何进入方向盘设置界面？",
         "answer": "",
+        "reference": "page_148"
+    },
+    {
+        "question": "请问如何调整方向盘的高度和倾斜角度？",
+        "answer": "",
+        "reference": "page_150"
+    },
+    {
+        "question": "请问如何通过方向盘上的按键恢复驾驶辅助功能？",
+        "answer": "",
         "reference": "page_56"
     },
     {
         "question": "请问如何调整方向盘的高度和倾斜角度？",
         "answer": "",
-        "reference": "page_59"
-    },
-    {
-        "question": "请问如何通过方向盘上的按键恢复驾驶辅助功能？",
-        "answer": "",
-        "reference": "page_58"
-    },
-    {
-        "question": "请问如何调整方向盘的高度和倾斜角度？",
-        "answer": "",
-        "reference": "page_59"
+        "reference": "page_150"
     },
     {
         "question": "在驾驶前调整方向盘时，需要注意哪项安全警告？",
         "answer": "",
-        "reference": "page_60"
+        "reference": "page_59"
     },
     {
         "question": "在转向柱未牢固锁止的情况下驾车可能会导致什么后果？",
@@ -227,7 +227,7 @@
     {
         "question": "如何正确使用自动雨刷？",
         "answer": "",
-        "reference": "page_63"
+        "reference": "page_64"
     },
     {
         "question": "问题：如果自动雨刷灵敏度过高，应该如何调整以减少其对小雨的反应？",
@@ -247,7 +247,7 @@
     {
         "question": "智能远近光控制开启时，哪个指示灯会点亮？",
         "answer": "",
-        "reference": "page_70"
+        "reference": "page_74"
     },
     {
         "question": "请问智能远近光控制和低速行人提示音功能是否可以同时开启？",
@@ -257,32 +257,32 @@
     {
         "question": "问题：哪些警告灯是用来指示车辆灯光系统出现故障的？",
         "answer": "",
-        "reference": "page_73"
+        "reference": "page_71"
     },
     {
         "question": "问题：智能远近光控制系统故障警告灯点亮后，驾驶员应该如何操作以保证安全行驶？",
         "answer": "",
-        "reference": "page_85"
+        "reference": "page_76"
     },
     {
         "question": "问题：盲点监测系统出现故障时，应该如何在车辆上进行提示？",
         "answer": "",
-        "reference": "page_74"
+        "reference": "page_78"
     },
     {
         "question": "问题：盲点监测系统出现故障时，盲点监测故障警告灯常亮，那么当盲点监测系统标定未完成时，该警告灯会如何显示？",
         "answer": "",
-        "reference": "page_74"
+        "reference": "page_78"
     },
     {
         "question": "问题：当车辆的哪个警告灯常亮时，表明车身稳定控制系统存在故障？",
         "answer": "",
-        "reference": "page_72"
+        "reference": "page_76"
     },
     {
         "question": "问题：如果车辆的变速器故障警告灯点亮，但变速器性能并未降低，那么可能的原因是什么？",
         "answer": "",
-        "reference": "page_76"
+        "reference": "page_71"
     },
     {
         "question": "请问哪些情况下会导致安全带未系警示系统警告灯点亮？",
@@ -297,7 +297,7 @@
     {
         "question": "如何设置和调整机舱盖/车门/尾门/安全带提醒界面的显示？",
         "answer": "",
-        "reference": "page_80"
+        "reference": "page_78"
     },
     {
         "question": "问题：如果组合仪表显示屏上出现红色高亮提示未关闭机舱盖/车门/尾门或未系安全带，那么如何才能关闭这个提示？",
@@ -352,37 +352,37 @@
     {
         "question": "问题：如何调整车辆的仪表盘亮度？",
         "answer": "",
-        "reference": "page_263"
+        "reference": "page_264"
     },
     {
         "question": "如何调整车内氛围灯的亮度和模式？",
         "answer": "",
-        "reference": "page_92"
+        "reference": "page_93"
     },
     {
         "question": "如何调整车内氛围灯的颜色和亮度？",
         "answer": "",
-        "reference": "page_93"
+        "reference": "page_92"
     },
     {
         "question": "如何设置氛围灯的颜色效果？",
         "answer": "",
-        "reference": "page_93"
+        "reference": "page_94"
     },
     {
         "question": "问题：车辆的不同氛围灯效果能否通过远程控制实现？",
         "answer": "",
-        "reference": "page_94"
+        "reference": "page_92"
     },
     {
         "question": "汽车仪表和灯光系统分别由哪些部分组成？",
         "answer": "",
-        "reference": "page_67"
+        "reference": "page_96"
     },
     {
         "question": "请问如何调整汽车仪表盘上的亮度？",
         "answer": "",
-        "reference": "page_150"
+        "reference": "page_91"
     },
     {
         "question": "如何正确清洁和维护汽车安全带以保持其最佳性能？",
@@ -417,12 +417,12 @@
     {
         "question": "远端安全侧气囊主要在什么情况下展开？",
         "answer": "",
-        "reference": "page_103"
+        "reference": "page_106"
     },
     {
         "question": "远端安全侧气囊在受到侧面碰撞时能展开多长时间？",
         "answer": "",
-        "reference": "page_103"
+        "reference": "page_106"
     },
     {
         "question": "如何通过中央显示屏设置车窗和遮阳帘的功能？",
@@ -447,7 +447,7 @@
     {
         "question": "如何确保儿童在车内时的安全？",
         "answer": "",
-        "reference": "page_123"
+        "reference": "page_122"
     },
     {
         "question": "问题：如果天窗自动开启/关闭功能和防夹功能无法正常工作，驾驶员应该采取哪些措施来确保安全？",
@@ -467,12 +467,12 @@
     {
         "question": "如何通过Lynk&CoApp设置前排座椅通风的时间？",
         "answer": "",
-        "reference": "page_115"
+        "reference": "page_117"
     },
     {
         "question": "请问如何设置前排座椅通风的自动关闭功能？",
         "answer": "",
-        "reference": "page_116"
+        "reference": "page_117"
     },
     {
         "question": "请问前排头枕是如何为驾驶者的安全提供额外保护的？",
@@ -517,7 +517,7 @@
     {
         "question": "ISOFIX儿童约束系统在哪些情况下不适用？",
         "answer": "",
-        "reference": "page_125"
+        "reference": "page_126"
     },
     {
         "question": "如何通过车载12V电源为电子设备充电？",
@@ -542,7 +542,7 @@
     {
         "question": "请问车辆中能为哪些设备提供充电服务？",
         "answer": "",
-        "reference": "page_6"
+        "reference": "page_295"
     },
     {
         "question": "请问这款汽车配备了哪些类型的USB接口用于车辆充电？",
@@ -557,7 +557,7 @@
     {
         "question": "请问这款汽车配备了哪些类型的USB接口供前排乘客使用？",
         "answer": "",
-        "reference": "page_137"
+        "reference": "page_133"
     },
     {
         "question": "请问车辆的无线充电功能在哪些情况下可能无法正常工作？",
@@ -652,7 +652,7 @@
     {
         "question": "问题：如果车辆的制动系统出现故障，但仪表上的制动系统故障指示灯没有点亮，驾驶员是否需要立即停车并联系Lynk&Co领克中心？",
         "answer": "",
-        "reference": "page_156"
+        "reference": "page_155"
     },
     {
         "question": "如何正确释放电子驻车制动（EPB）功能？",
@@ -662,7 +662,7 @@
     {
         "question": "问题：如果电子驻车制动（EPB）功能出现故障，车辆所有者应该如何正确处理？",
         "answer": "",
-        "reference": "page_157"
+        "reference": "page_158"
     },
     {
         "question": "在什么情况下，陡坡缓降系统（HDC）可能无法使车辆保持匀速地驶下陡坡？",
@@ -702,12 +702,12 @@
     {
         "question": "如何确保驾驶辅助系统的传感器正常工作？",
         "answer": "",
-        "reference": "page_171"
+        "reference": "page_170"
     },
     {
         "question": "问题：如果车辆在行驶过程中遭遇恶劣天气，如何确保驾驶辅助系统的可靠性？",
         "answer": "",
-        "reference": "page_171"
+        "reference": "page_172"
     },
     {
         "question": "如何确保在使用最高限速辅助系统时避免意外调节车速？",
@@ -732,12 +732,12 @@
     {
         "question": "问题：根据资料，使用ACC功能时，在哪些情况下需要驾驶员及时制动？",
         "answer": "",
-        "reference": "page_180"
+        "reference": "page_176"
     },
     {
         "question": "问题：ACC系统在哪些情况下可能无法正确识别自行车？",
         "answer": "",
-        "reference": "page_195"
+        "reference": "page_176"
     },
     {
         "question": "如何调整自适应巡航系统（ACC）的目标车速和跟车距离间隔？",
@@ -752,12 +752,12 @@
     {
         "question": "自适应巡航系统（ACC）在什么情况下可能无法激活或自动退出？",
         "answer": "",
-        "reference": "page_180"
+        "reference": "page_179"
     },
     {
         "question": "LynkCo-Pilot系统在哪些情况下会提醒驾驶员接管车辆？",
         "answer": "",
-        "reference": "page_191"
+        "reference": "page_181"
     },
     {
         "question": "问题：LynkCo-Pilot系统在何种情况下会默认将跟车距离间隔设置为最远？",
@@ -782,12 +782,12 @@
     {
         "question": "问题：当驾驶员脱手时，LynkCo-Pilot系统将作出何种反应？",
         "answer": "",
-        "reference": "page_191"
+        "reference": "page_186"
     },
     {
         "question": "LynkCo-Pilot系统在哪些情况下会提醒驾驶员接管车辆？",
         "answer": "",
-        "reference": "page_191"
+        "reference": "page_181"
     },
     {
         "question": "问题：LynkCo-Pilot系统在何种情况下会默认将跟车距离间隔设置为最远？",
@@ -807,7 +807,7 @@
     {
         "question": "问题：在什么情况下，LynkCo-Pilot的性能会下降或无法正常工作？",
         "answer": "",
-        "reference": "page_187"
+        "reference": "page_186"
     },
     {
         "question": "既然提到了驾驶辅助系统的传感器可能会受限，导致LynkCo-Pilot无法正常工作，那么一个无法回答的问题是：如果驾驶辅助系统的传感器完全失效，会发生什么情况？",
@@ -837,7 +837,7 @@
     {
         "question": "FCTA系统在哪些情况下可能无法正常工作？",
         "answer": "",
-        "reference": "page_198"
+        "reference": "page_199"
     },
     {
         "question": "问题：FCTA系统在哪些特定情况下会限制其功能？",
@@ -847,7 +847,7 @@
     {
         "question": "请问在什么情况下，RCTA无法保证正常工作？",
         "answer": "",
-        "reference": "page_200"
+        "reference": "page_201"
     },
     {
         "question": "问题：如果RCTA系统出现故障，驾驶员应该如何应对以确保倒车安全？",
@@ -857,7 +857,7 @@
     {
         "question": "车道辅助系统的哪些情况下会显示绿色状态指示灯？",
         "answer": "",
-        "reference": "page_202"
+        "reference": "page_206"
     },
     {
         "question": "车道辅助系统在哪些特定情况下会停止工作？",
@@ -877,22 +877,22 @@
     {
         "question": "车道辅助系统的哪些状态可以通过组合仪表的显示来判断？",
         "answer": "",
-        "reference": "page_202"
+        "reference": "page_206"
     },
     {
         "question": "车道辅助系统未检测到车道线时，应该如何操作以解决问题？",
         "answer": "",
-        "reference": "page_206"
+        "reference": "page_202"
     },
     {
         "question": "紧急车道保持辅助系统（ELKA）在哪些情况下可能不会工作？",
         "answer": "",
-        "reference": "page_205"
+        "reference": "page_204"
     },
     {
         "question": "紧急车道保持辅助系统（ELKA）在哪些特殊情况下可能无法正常工作？",
         "answer": "",
-        "reference": "page_208"
+        "reference": "page_201"
     },
     {
         "question": "前向碰撞减缓系统在哪些情况下无法正常使用？",
@@ -922,7 +922,7 @@
     {
         "question": "如何评价216号驾驶辅助系统的性能和功能？",
         "answer": "",
-        "reference": "page_169"
+        "reference": "page_216"
     },
     {
         "question": "请问在驾驶辅助功能中，216代表什么具体含义？",
@@ -932,7 +932,7 @@
     {
         "question": "泊车辅助系统在哪些情况下可能无法正确识别障碍物？",
         "answer": "",
-        "reference": "page_223"
+        "reference": "page_229"
     },
     {
         "question": "问题：如果泊车辅助摄像头被泥土完全覆盖，会对泊车辅助系统的功能产生什么影响？",
@@ -947,7 +947,7 @@
     {
         "question": "问题：泊车辅助系统在哪些特定情况下可能无法检测到儿童或物体？",
         "answer": "",
-        "reference": "page_222"
+        "reference": "page_220"
     },
     {
         "question": "如何调整泊车辅助系统的报警音提示？",
@@ -962,12 +962,12 @@
     {
         "question": "如何正确使用360°全景影像进行泊车？",
         "answer": "",
-        "reference": "page_226"
+        "reference": "page_227"
     },
     {
         "question": "问题：360°全景影像系统在识别物体时，其显示的距离误差范围是多少？",
         "answer": "",
-        "reference": "page_226"
+        "reference": "page_227"
     },
     {
         "question": "在泊车时，什么情况下无法使用转向联动功能？",
@@ -1007,7 +1007,7 @@
     {
         "question": "请问在启用RPA功能后，如果遇到手机或遥控钥匙丢失的情况，应该如何操作？",
         "answer": "",
-        "reference": "page_233"
+        "reference": "page_234"
     },
     {
         "question": "在使用RPA功能时，哪些情况下应该暂停或避免使用该功能？",
@@ -1022,12 +1022,12 @@
     {
         "question": "请问：泊车指的是什么？",
         "answer": "",
-        "reference": "page_223"
+        "reference": "page_226"
     },
     {
         "question": "请问在泊车过程中，车辆应该保持怎样的速度和姿势才能确保安全？",
         "answer": "",
-        "reference": "page_232"
+        "reference": "page_175"
     },
     {
         "question": "如何通过中央显示屏调节驾驶员侧和乘客侧空调温度？",
@@ -1037,7 +1037,7 @@
     {
         "question": "请问在空调操作中，如果指示灯不亮起，应该如何排查问题？",
         "answer": "",
-        "reference": "page_245"
+        "reference": "page_256"
     },
     {
         "question": "如何通过中央显示屏调节空调的风量？",
@@ -1077,7 +1077,7 @@
     {
         "question": "请问如何调整空调出风口的吹风方向？",
         "answer": "",
-        "reference": "page_251"
+        "reference": "page_249"
     },
     {
         "question": "如何通过前排空调控制界面切换车内空气的内循环和外循环？",
@@ -1097,7 +1097,7 @@
     {
         "question": "请问香氛胶囊可以使用多久，需要多久更换一次？",
         "answer": "",
-        "reference": "page_253"
+        "reference": "page_254"
     },
     {
         "question": "如何确保空调系统正确地除去前挡风玻璃上的结冰或雾气？",
@@ -1107,12 +1107,12 @@
     {
         "question": "问题：如何仅使用空调系统面板上的按钮来确保前挡风玻璃无冰渣、积雪或冷凝水？",
         "answer": "",
-        "reference": "page_256"
+        "reference": "page_257"
     },
     {
         "question": "空调的制冷量是多少？",
         "answer": "",
-        "reference": "page_246"
+        "reference": "page_281"
     },
     {
         "question": "请问空调的制冷量是如何与汽车性能和燃油效率相匹配的？",
@@ -1122,22 +1122,22 @@
     {
         "question": "如何设置中央显示屏的显示模式？",
         "answer": "",
-        "reference": "page_264"
+        "reference": "page_263"
     },
     {
         "question": "请问如何设置中央显示屏的自动显示模式？",
         "answer": "",
-        "reference": "page_264"
+        "reference": "page_263"
     },
     {
         "question": "如何通过车辆功能界面调整中央显示屏的亮度？",
         "answer": "",
-        "reference": "page_264"
+        "reference": "page_263"
     },
     {
         "question": "既然中央显示屏可以根据个人喜好选择自动模式，并且可以根据日出日落或自定时段切换显示模式，那么请问：如果选择自动模式，中央显示屏在何时会从夜间模式切换到日间模式？",
         "answer": "",
-        "reference": "page_264"
+        "reference": "page_263"
     },
     {
         "question": "如何通过中央显示屏播放说明广播或音乐？",
@@ -1157,7 +1157,7 @@
     {
         "question": "请问如何查看当前车辆所连接的Wi-Fi网络的信号强度？",
         "answer": "",
-        "reference": "page_267"
+        "reference": "page_268"
     },
     {
         "question": "请问在您的汽车中，创建人脸信息时需要将车辆切换至哪个挡位？",
@@ -1172,7 +1172,7 @@
     {
         "question": "请问Lynk&CoID是否支持同时在线多个账户？",
         "answer": "",
-        "reference": "page_269"
+        "reference": "page_272"
     },
     {
         "question": "行车记录仪在遇到紧急情况时，会保存多长时间的视频？",
@@ -1187,7 +1187,7 @@
     {
         "question": "请问如何通过中央显示屏查看行车记录仪拍摄的照片？",
         "answer": "",
-        "reference": "page_277"
+        "reference": "page_276"
     },
     {
         "question": "请问行车记录仪是否支持其他格式的内存卡？",
@@ -1227,7 +1227,7 @@
     {
         "question": "如何确保电动汽车在充电过程中的安全？",
         "answer": "",
-        "reference": "page_288"
+        "reference": "page_290"
     },
     {
         "question": "问题：在雨天充电时，如果没有遮雨棚，应该采取哪些措施来确保充电安全？",
@@ -1252,7 +1252,7 @@
     {
         "question": "问题：如何诊断和解决充电接口灯光指示的绿-绿-红依次闪烁的问题？",
         "answer": "",
-        "reference": "page_296"
+        "reference": "page_292"
     },
     {
         "question": "如何确保动力电池在充电过程中不会超过设定的目标充电量？",
@@ -1262,7 +1262,7 @@
     {
         "question": "问题：如果动力电池未达到设置的目标充电量，车辆会自动继续充电吗？",
         "answer": "",
-        "reference": "page_298"
+        "reference": "page_294"
     },
     {
         "question": "问题：在充电过程中，哪些因素可能导致充电时间变长？",
@@ -1282,17 +1282,17 @@
     {
         "question": "请问如何确保在使用预约充电功能时，车辆能够成功连接到车载充电设备或充电桩进行充电？",
         "answer": "",
-        "reference": "page_298"
+        "reference": "page_295"
     },
     {
         "question": "高压系统的额定工作压力是多少？",
         "answer": "",
-        "reference": "page_300"
+        "reference": "page_287"
     },
     {
         "question": "高压系统的额定压力是多少？",
         "answer": "",
-        "reference": "page_300"
+        "reference": "page_287"
     },
     {
         "question": "如何正确更换遥控钥匙电池以避免损坏车辆？",
@@ -1312,7 +1312,7 @@
     {
         "question": "在保养和维护过程中，需要注意哪些安全警告？",
         "answer": "",
-        "reference": "page_305"
+        "reference": "page_304"
     },
     {
         "question": "请问如何检查发动机机油的压力警告灯是否正常工作？",
@@ -1347,7 +1347,7 @@
     {
         "question": "请问如何准确地测量轮胎的胎压？",
         "answer": "",
-        "reference": "page_62"
+        "reference": "page_314"
     },
     {
         "question": "问题：如何正确维护轮胎以保证车辆的操纵性能和延长轮胎使用寿命？",
@@ -1377,7 +1377,7 @@
     {
         "question": "请问Lynk&Co领克智能驾驶分析系统是如何识别和记录驾驶员的驾驶习惯的？",
         "answer": "",
-        "reference": "page_12"
+        "reference": "page_320"
     },
     {
         "question": "如何正确地进行汽车保养和维护以延长汽车使用寿命？",
@@ -1392,12 +1392,12 @@
     {
         "question": "在进行OTA升级时，如果遇到升级失败或更新延迟的提示，应该采取哪些步骤？",
         "answer": "",
-        "reference": "page_325"
+        "reference": "page_326"
     },
     {
         "question": "在进行OTA升级时，如果车辆突然断电，应该如何处理？",
         "answer": "",
-        "reference": "page_325"
+        "reference": "page_326"
     },
     {
         "question": "在紧急情况下，如果车辆出现故障，应该采取哪些步骤来确保安全并寻求帮助？",
@@ -1407,12 +1407,12 @@
     {
         "question": "在紧急情况下，如果车辆的故障警告指示灯图标或消息提示无法正常工作，应该如何处理？",
         "answer": "",
-        "reference": "page_330"
+        "reference": "page_329"
     },
     {
         "question": "紧急道路救援服务对于车辆出现什么问题提供免费服务？",
         "answer": "",
-        "reference": "page_332"
+        "reference": "page_331"
     },
     {
         "question": "问题:如果我的车辆在保修期外抛锚，领克救援服务是否会提供免费的拖车服务？",
@@ -1427,12 +1427,12 @@
     {
         "question": "问题：在紧急情况下，如果车辆出现故障导致无法正常解锁和锁止车门，但没有备用机械钥匙，驾驶员应该如何应对？",
         "answer": "",
-        "reference": "page_335"
+        "reference": "page_334"
     },
     {
         "question": "在紧急情况下，如何手动解锁充电枪？",
         "answer": "",
-        "reference": "page_337"
+        "reference": "page_336"
     },
     {
         "question": "在紧急情况下，如果车辆充电时发生突发状况，导致无法拔出充电口里的充电枪，您可通过应急解锁拉线手动解锁充电枪。那么，如果遇到无法解锁充电枪的情况，应该如何正确地操作应急解锁拉线以解锁充电枪呢？",
@@ -1462,7 +1462,7 @@
     {
         "question": "在紧急情况下，如何正确解锁并打开车辆的充电盖进行充电？",
         "answer": "",
-        "reference": "page_344"
+        "reference": "page_289"
     },
     {
         "question": "问题：在车辆开始充电时，应该先拆除哪个端子以防止火花产生？",
@@ -1502,6 +1502,6 @@
     {
         "question": "请问在汽车技术中，1牛米（Nm）的力矩等于多少牛顿（N）乘以米（m）？",
         "answer": "",
-        "reference": "page_354"
+        "reference": "page_349"
     }
 ]

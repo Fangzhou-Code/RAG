@@ -58,6 +58,7 @@ RAG流程图：
 
   ![Dify本地界面](/image/dify-ui.png "Dify本地界面")
 
+* 绑定Ollama首先本地启用，嵌入选择url：`http://host.docker.internal:11434`
 * 后续操作参考: [dify+ollama构建本地大模型平台](https://zhuanlan.zhihu.com/p/697386670)
 
 
