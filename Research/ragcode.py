@@ -53,7 +53,7 @@ from langchain_openai import ChatOpenAI
 llm = ChatOpenAI(
     temperature=0.95,
     model="glm-4",
-    openai_api_key="d30581cf1797b3861181a43904f3f781.imGI3eNY0HE71xYb",
+    openai_api_key="",
     openai_api_base="https://open.bigmodel.cn/api/paas/v4/"
 )
 
